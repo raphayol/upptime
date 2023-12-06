@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.icewriter.com.ico",
     "slug": "icewriter",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 334,
-    "timeDay": 329,
-    "timeWeek": 372,
-    "timeMonth": 334,
-    "timeYear": 334,
-    "dailyMinutesDown": {
-      "2023-12-05": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 342,
+    "timeDay": 395,
+    "timeWeek": 371,
+    "timeMonth": 342,
+    "timeYear": 342,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Encheres Parisiennes",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 625,
-    "timeDay": 672,
-    "timeWeek": 675,
-    "timeMonth": 625,
-    "timeYear": 625,
+    "time": 636,
+    "timeDay": 802,
+    "timeWeek": 679,
+    "timeMonth": 636,
+    "timeYear": 636,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 71,
-    "timeDay": 75,
-    "timeWeek": 73,
-    "timeMonth": 71,
-    "timeYear": 71,
+    "time": 72,
+    "timeDay": 91,
+    "timeWeek": 74,
+    "timeMonth": 72,
+    "timeYear": 72,
     "dailyMinutesDown": {}
   }
 ]
