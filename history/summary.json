@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2025-01-01": 1364,
+      "2025-01-01": 1377,
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
@@ -225,19 +225,19 @@
     "url": "https://encheresparisiennes.com",
     "icon": "https://icons.duckduckgo.com/ip3/encheresparisiennes.com.ico",
     "slug": "encheres-parisiennes",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 664,
-    "timeDay": 570,
-    "timeWeek": 642,
-    "timeMonth": 678,
+    "time": 663,
+    "timeDay": 572,
+    "timeWeek": 633,
+    "timeMonth": 674,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2025-01-01": 0
+      "2025-01-01": 13
     }
   },
   {
