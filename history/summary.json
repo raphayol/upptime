@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.icewriter.com.ico",
     "slug": "icewriter",
     "status": "down",
-    "uptime": "45.67%",
+    "uptime": "45.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "33.24%",
+    "uptimeYear": "33.12%",
     "time": 379,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2025-02-13": 3,
+      "2025-02-13": 615,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -268,9 +268,9 @@
     "url": "https://encheresparisiennes.com",
     "icon": "https://icons.duckduckgo.com/ip3/encheresparisiennes.com.ico",
     "slug": "encheres-parisiennes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -279,7 +279,9 @@
     "timeWeek": 658,
     "timeMonth": 679,
     "timeYear": 669,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-13": 0
+    }
   },
   {
     "name": "Google",
