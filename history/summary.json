@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.icewriter.com.ico",
     "slug": "icewriter",
     "status": "down",
-    "uptime": "45.63%",
+    "uptime": "45.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "33.12%",
+    "uptimeYear": "33.07%",
     "time": 379,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2025-02-13": 627,
+      "2025-02-13": 900,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -268,11 +268,11 @@
     "url": "https://encheresparisiennes.com",
     "icon": "https://icons.duckduckgo.com/ip3/encheresparisiennes.com.ico",
     "slug": "encheres-parisiennes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 665,
     "timeDay": 655,
@@ -280,7 +280,7 @@
     "timeMonth": 679,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2025-02-13": 12
+      "2025-02-13": 0
     }
   },
   {
