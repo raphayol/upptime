@@ -22,19 +22,19 @@
     "url": "https://encheresparisiennes.com",
     "icon": "https://icons.duckduckgo.com/ip3/encheresparisiennes.com.ico",
     "slug": "encheres-parisiennes",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.93%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 665,
-    "timeDay": 626,
-    "timeWeek": 647,
-    "timeMonth": 666,
+    "time": 664,
+    "timeDay": 628,
+    "timeWeek": 646,
+    "timeMonth": 665,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2025-02-14": 29
+      "2025-02-14": 40
     }
   },
   {
