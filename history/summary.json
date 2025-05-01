@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 817,
-    "timeDay": 1449,
-    "timeWeek": 574,
-    "timeMonth": 656,
-    "timeYear": 817,
+    "time": 808,
+    "timeDay": 77,
+    "timeWeek": 564,
+    "timeMonth": 576,
+    "timeYear": 808,
     "dailyMinutesDown": {}
   },
   {
@@ -24,17 +24,16 @@
     "slug": "encheres-parisiennes",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.90%",
     "time": 683,
-    "timeDay": 804,
-    "timeWeek": 712,
-    "timeMonth": 728,
-    "timeYear": 693,
+    "timeDay": 805,
+    "timeWeek": 723,
+    "timeMonth": 721,
+    "timeYear": 692,
     "dailyMinutesDown": {
-      "2025-04-30": 9,
       "2025-04-26": 16,
       "2025-04-18": 56,
       "2025-04-17": 36,
@@ -66,13 +65,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 106,
-    "timeDay": 108,
-    "timeWeek": 102,
+    "time": 107,
+    "timeDay": 82,
+    "timeWeek": 101,
     "timeMonth": 94,
     "timeYear": 111,
-    "dailyMinutesDown": {
-      "2024-05-01": 38
-    }
+    "dailyMinutesDown": {}
   }
 ]
