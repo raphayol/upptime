@@ -24,9 +24,9 @@
     "slug": "encheres-parisiennes",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "97.08%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "97.10%",
     "uptimeYear": "99.64%",
     "time": 690,
     "timeDay": 785,
@@ -34,7 +34,6 @@
     "timeMonth": 728,
     "timeYear": 699,
     "dailyMinutesDown": {
-      "2025-06-13": 7,
       "2025-06-12": 16,
       "2025-06-11": 16,
       "2025-06-09": 45,
@@ -74,17 +73,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 108,
-    "timeDay": 78,
-    "timeWeek": 97,
-    "timeMonth": 100,
-    "timeYear": 110,
-    "dailyMinutesDown": {}
+    "time": 109,
+    "timeDay": 306,
+    "timeWeek": 152,
+    "timeMonth": 113,
+    "timeYear": 111,
+    "dailyMinutesDown": {
+      "2025-06-13": 0
+    }
   }
 ]
