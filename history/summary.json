@@ -5,26 +5,24 @@
     "icon": "https://icons.duckduckgo.com/ip3/comptacrypto.com.ico",
     "slug": "comptacrypto",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 708,
     "timeDay": 148,
     "timeWeek": 118,
     "timeMonth": 796,
     "timeYear": 708,
-    "dailyMinutesDown": {
-      "2025-07-19": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Encheres Parisiennes",
     "url": "https://encheresparisiennes.com",
     "icon": "https://icons.duckduckgo.com/ip3/encheresparisiennes.com.ico",
     "slug": "encheres-parisiennes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.96%",
@@ -36,6 +34,7 @@
     "timeMonth": 719,
     "timeYear": 703,
     "dailyMinutesDown": {
+      "2025-07-19": 0,
       "2025-07-17": 19,
       "2025-07-16": 18,
       "2025-07-15": 65,
