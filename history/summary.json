@@ -4,19 +4,19 @@
     "url": "https://comptacrypto.com",
     "icon": "https://icons.duckduckgo.com/ip3/comptacrypto.com.ico",
     "slug": "comptacrypto",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 672,
-    "timeDay": 88,
-    "timeWeek": 713,
-    "timeMonth": 534,
-    "timeYear": 672,
+    "time": 670,
+    "timeDay": 116,
+    "timeWeek": 642,
+    "timeMonth": 522,
+    "timeYear": 670,
     "dailyMinutesDown": {
-      "2025-09-22": 0
+      "2025-09-22": 6
     }
   },
   {
