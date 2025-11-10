@@ -4,7 +4,7 @@
     "url": "https://comptacrypto.com",
     "icon": "https://icons.duckduckgo.com/ip3/comptacrypto.com.ico",
     "slug": "comptacrypto",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,10 +12,12 @@
     "uptimeYear": "100.00%",
     "time": 678,
     "timeDay": 190,
-    "timeWeek": 166,
+    "timeWeek": 172,
     "timeMonth": 721,
     "timeYear": 678,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-10": 0
+    }
   },
   {
     "name": "Encheres Parisiennes",
@@ -23,18 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/encheresparisiennes.com.ico",
     "slug": "encheres-parisiennes",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.53%",
+    "uptime": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.46%",
     "time": 714,
-    "timeDay": 869,
-    "timeWeek": 748,
+    "timeDay": 853,
+    "timeWeek": 753,
     "timeMonth": 760,
     "timeYear": 720,
     "dailyMinutesDown": {
-      "2025-11-10": 11,
       "2025-11-06": 16,
       "2025-11-04": 42,
       "2025-11-01": 28,
