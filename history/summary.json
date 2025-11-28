@@ -22,7 +22,7 @@
     "url": "https://encheresparisiennes.com",
     "icon": "https://icons.duckduckgo.com/ip3/encheresparisiennes.com.ico",
     "slug": "encheres-parisiennes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.61%",
@@ -31,7 +31,7 @@
     "time": 719,
     "timeDay": 960,
     "timeWeek": 876,
-    "timeMonth": 782,
+    "timeMonth": 780,
     "timeYear": 724,
     "dailyMinutesDown": {
       "2025-11-24": 21,
