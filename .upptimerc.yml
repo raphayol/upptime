@@ -12,7 +12,8 @@ sites:
     url: https://www.google.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-
+  - name: Test Broken Site2
+    url: https://thissitedoesnotexist2.koj.co
   
 
 status-website:
