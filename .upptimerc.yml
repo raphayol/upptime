@@ -14,6 +14,8 @@ sites:
     url: https://thissitedoesnotexist.koj.co
   - name: Test Broken Site2
     url: https://thissitedoesnotexist2.koj.co
+  - name: Test Broken Site3
+    url: https://thissitedoesnotexist3.koj.co
   
 
 status-website:
