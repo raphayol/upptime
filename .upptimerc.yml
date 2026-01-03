@@ -10,14 +10,7 @@ sites:
     url: https://encheresparisiennes.com
   - name: Google
     url: https://www.google.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: Test Broken Site2
-    url: https://thissitedoesnotexist2.koj.co
-  - name: Test Broken Site3
-    url: https://thissitedoesnotexist3.koj.co
   
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
