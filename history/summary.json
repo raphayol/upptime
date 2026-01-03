@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 577,
-    "timeDay": 120,
-    "timeWeek": 122,
-    "timeMonth": 150,
-    "timeYear": 577,
+    "time": 572,
+    "timeDay": 135,
+    "timeWeek": 130,
+    "timeMonth": 152,
+    "timeYear": 572,
     "dailyMinutesDown": {
       "2025-12-14": 34
     }
@@ -26,14 +26,14 @@
     "slug": "encheres-parisiennes",
     "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "67.58%",
-    "uptimeWeek": "9.65%",
+    "uptimeDay": "68.09%",
+    "uptimeWeek": "9.73%",
     "uptimeMonth": "70.62%",
     "uptimeYear": "96.99%",
     "time": 727,
-    "timeDay": 598,
-    "timeWeek": 598,
-    "timeMonth": 791,
+    "timeDay": 601,
+    "timeWeek": 601,
+    "timeMonth": 790,
     "timeYear": 732,
     "dailyMinutesDown": {
       "2026-01-03": 116,
@@ -146,11 +146,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
-    "time": 136,
-    "timeDay": 86,
-    "timeWeek": 264,
-    "timeMonth": 191,
-    "timeYear": 149,
+    "time": 149,
+    "timeDay": 1130,
+    "timeWeek": 740,
+    "timeMonth": 318,
+    "timeYear": 167,
     "dailyMinutesDown": {
       "2025-12-19": 17,
       "2025-12-14": 37,
@@ -174,7 +174,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-03": 16
+      "2026-01-03": 25
     }
   },
   {
@@ -188,6 +188,26 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-01-03": 8
+    }
+  },
+  {
+    "name": "Test Broken Site3",
+    "url": "https://thissitedoesnotexist3.koj.co",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist3.koj.co.ico",
+    "slug": "test-broken-site3",
+    "status": "down",
+    "uptime": "0.43%",
+    "uptimeDay": "0.43%",
+    "uptimeWeek": "0.43%",
+    "uptimeMonth": "0.43%",
+    "uptimeYear": "0.43%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
