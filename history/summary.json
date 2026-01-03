@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 580,
-    "timeDay": 126,
-    "timeWeek": 125,
-    "timeMonth": 152,
-    "timeYear": 580,
+    "time": 578,
+    "timeDay": 117,
+    "timeWeek": 121,
+    "timeMonth": 151,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2025-12-14": 34
     }
@@ -26,14 +26,14 @@
     "slug": "encheres-parisiennes",
     "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "67.22%",
-    "uptimeWeek": "9.60%",
+    "uptimeDay": "67.27%",
+    "uptimeWeek": "9.61%",
     "uptimeMonth": "70.62%",
     "uptimeYear": "96.99%",
     "time": 727,
-    "timeDay": 600,
-    "timeWeek": 600,
-    "timeMonth": 796,
+    "timeDay": 595,
+    "timeWeek": 595,
+    "timeMonth": 793,
     "timeYear": 732,
     "dailyMinutesDown": {
       "2026-01-03": 116,
@@ -147,14 +147,34 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 137,
-    "timeDay": 96,
-    "timeWeek": 297,
-    "timeMonth": 196,
+    "timeDay": 90,
+    "timeWeek": 280,
+    "timeMonth": 193,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2025-12-19": 17,
       "2025-12-14": 37,
       "2025-07-07": 17
+    }
+  },
+  {
+    "name": "Test Broken Site",
+    "url": "https://thissitedoesnotexist.koj.co",
+    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
+    "slug": "test-broken-site",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2026-01-03": 13
     }
   }
 ]
