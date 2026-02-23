@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 531,
-    "timeDay": 250,
-    "timeWeek": 190,
-    "timeMonth": 169,
-    "timeYear": 531,
+    "time": 530,
+    "timeDay": 129,
+    "timeWeek": 129,
+    "timeMonth": 174,
+    "timeYear": 514,
     "dailyMinutesDown": {
       "2025-12-14": 34
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/encheresparisiennes.com.ico",
     "slug": "encheres-parisiennes",
     "status": "up",
-    "uptime": "98.65%",
+    "uptime": "98.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.99%",
+    "uptimeYear": "97.01%",
     "time": 728,
-    "timeDay": 802,
-    "timeWeek": 721,
-    "timeMonth": 706,
-    "timeYear": 733,
+    "timeDay": 817,
+    "timeWeek": 817,
+    "timeMonth": 744,
+    "timeYear": 734,
     "dailyMinutesDown": {
       "2026-01-03": 116,
       "2026-01-02": 1025,
@@ -128,11 +128,7 @@
       "2025-03-16": 27,
       "2025-03-12": 20,
       "2025-03-10": 32,
-      "2025-03-02": 19,
-      "2025-02-21": 19,
-      "2025-02-20": 36,
-      "2025-02-15": 22,
-      "2025-02-14": 29
+      "2025-03-02": 19
     }
   },
   {
@@ -147,10 +143,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 156,
-    "timeDay": 108,
-    "timeWeek": 97,
-    "timeMonth": 143,
-    "timeYear": 175,
+    "timeDay": 106,
+    "timeWeek": 106,
+    "timeMonth": 116,
+    "timeYear": 177,
     "dailyMinutesDown": {
       "2025-12-19": 17,
       "2025-12-14": 37,
