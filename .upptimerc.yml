@@ -4,6 +4,8 @@ repo: upptime # The name of this repository
 assignees:
   - raphayol
 sites:
+  - name: Applyjob
+    url: https://applyjob.app
   - name: Comptacrypto
     url: https://comptacrypto.com
   - name: Encheres Parisiennes
