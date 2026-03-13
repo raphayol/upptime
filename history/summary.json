@@ -4,9 +4,9 @@
     "url": "https://applyjob.app",
     "icon": "https://icons.duckduckgo.com/ip3/applyjob.app.ico",
     "slug": "applyjob",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 763,
     "timeMonth": 763,
     "timeYear": 763,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-13": 0
+    }
   },
   {
     "name": "Comptacrypto",
@@ -52,7 +54,7 @@
     "timeDay": 560,
     "timeWeek": 818,
     "timeMonth": 797,
-    "timeYear": 738,
+    "timeYear": 737,
     "dailyMinutesDown": {
       "2026-01-03": 116,
       "2026-01-02": 1025,
