@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/applyjob.app.ico",
     "slug": "applyjob",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 727,
-    "timeDay": 895,
-    "timeWeek": 734,
-    "timeMonth": 727,
-    "timeYear": 727,
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 718,
+    "timeDay": 536,
+    "timeWeek": 692,
+    "timeMonth": 718,
+    "timeYear": 718,
     "dailyMinutesDown": {
       "2026-03-13": 38
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 504,
-    "timeDay": 99,
-    "timeWeek": 116,
-    "timeMonth": 177,
-    "timeYear": 452,
+    "time": 503,
+    "timeDay": 187,
+    "timeWeek": 118,
+    "timeMonth": 166,
+    "timeYear": 447,
     "dailyMinutesDown": {
       "2025-12-14": 34
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.03%",
     "time": 736,
-    "timeDay": 809,
-    "timeWeek": 710,
-    "timeMonth": 775,
+    "timeDay": 555,
+    "timeWeek": 656,
+    "timeMonth": 762,
     "timeYear": 739,
     "dailyMinutesDown": {
       "2026-01-03": 116,
@@ -142,8 +142,7 @@
       "2025-04-11": 25,
       "2025-03-31": 32,
       "2025-03-29": 16,
-      "2025-03-28": 30,
-      "2025-03-26": 29
+      "2025-03-28": 30
     }
   },
   {
@@ -158,9 +157,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 156,
-    "timeDay": 97,
-    "timeWeek": 105,
-    "timeMonth": 115,
+    "timeDay": 140,
+    "timeWeek": 112,
+    "timeMonth": 111,
     "timeYear": 176,
     "dailyMinutesDown": {
       "2025-12-19": 17,
