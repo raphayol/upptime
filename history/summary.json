@@ -44,9 +44,9 @@
     "url": "https://encheresparisiennes.com",
     "icon": "https://icons.duckduckgo.com/ip3/encheresparisiennes.com.ico",
     "slug": "encheres-parisiennes",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.48%",
@@ -90,7 +90,8 @@
       "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 1332,
-      "2026-01-03": 116
+      "2026-01-03": 116,
+      "2026-10-04": 0
     }
   },
   {
